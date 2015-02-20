@@ -1,6 +1,6 @@
 # [Dust](https://github.com/catberry/catberry-dust) helper for [Catberry](https://github.com/catberry/catberry) localization [plugin](https://github.com/catberry/catberry-l10n)
 
-[![NPM](https://nodei.co/npm/catberry-l10n.png)](https://nodei.co/npm/catberry-l10n-dust-helper/)
+[![NPM](https://nodei.co/npm/catberry-l10n-dust-helper.png)](https://nodei.co/npm/catberry-l10n-dust-helper/)
 
 ## Description
 You can use dustjs helper that puts localized value anywhere you want:
