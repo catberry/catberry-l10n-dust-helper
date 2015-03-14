@@ -18,6 +18,10 @@
 		"url": "git://github.com/catberry/catberry-l10n-dust-helper.git"
 	},
 	"main": "./index.js",
+	"peerDependencies": {
+		"catberry-l10n": "^3.0.0",
+		"catberry-dust": "^3.0.0"
+	},
 	"devDependencies": {
 		"jscs": "~1.6.2",
 		"jshint": "^2.6.0"
