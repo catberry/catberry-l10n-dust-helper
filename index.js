@@ -44,7 +44,7 @@ module.exports = {
 				helper = locator.resolveInstance(LocalizationHelper, config);
 			dust.helperManager.add('l10n', helper.getDustHelper());
 		} catch (e) {
-			//nothing to do.
+			// nothing to do.
 		}
 	}
 };
