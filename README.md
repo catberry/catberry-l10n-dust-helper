@@ -1,9 +1,9 @@
 # [Dust](https://github.com/catberry/catberry-dust) helper for [Catberry](https://github.com/catberry/catberry) localization [plugin](https://github.com/catberry/catberry-l10n)
 
-[![NPM](https://nodei.co/npm/catberry-l10n-dust-helper.png)](https://nodei.co/npm/catberry-l10n-dust-helper/)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/catberry/main?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 ## Description
-You can use dustjs helper that puts localized value anywhere you want:
+You can use dustjs helper that puts localized value wherever you want:
 
 ```html
 {@l10n key="SOME_LOCALIZATION_KEY" locale="en-us" count=5 /}
@@ -33,7 +33,7 @@ It outputs `comment` word.
 ```
 It outputs `comments` word.
 
-Also if you have `locale` value in template data context it is not needed to
+Also, if you have `locale` value in template data context it is not needed to
 specify parameter `locale` in helper because it will be automatically used from
 template data context.
 
@@ -42,7 +42,7 @@ template data context.
 There are a lot of ways to contribute:
 
 * Give it a star
-* Join the [Gitter](https://gitter.im/catberry/catberry) room and leave a feedback or help with answering users' questions
+* Join the [Gitter](https://gitter.im/catberry/mail) room and leave a feedback or help with answering users' questions
 * [Submit a bug or a feature request](https://github.com/catberry/catberry-l10n-dust-helper/issues)
 * [Submit a PR](https://github.com/catberry/catberry-l10n-dust-helper/blob/develop/CONTRIBUTING.md)
 
